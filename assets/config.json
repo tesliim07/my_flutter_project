@@ -1,0 +1,250 @@
+{
+  "name": "",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "e0e2e8c15d2f6b8151c6e668eb5eede4",
+      "css": "camera_rear",
+      "code": 59392,
+      "src": "material"
+    },
+    {
+      "uid": "bd94bfbee8c7d8899d7660a28fd14df6",
+      "css": "camera_roll",
+      "code": 59393,
+      "src": "material"
+    },
+    {
+      "uid": "a08fa7e7a1ce22ec5c7988e6b5e975ee",
+      "css": "cancel",
+      "code": 59394,
+      "src": "material"
+    },
+    {
+      "uid": "597ddffd7c1a9ce8c22f27eab6d113a2",
+      "css": "card_giftcard",
+      "code": 59395,
+      "src": "material"
+    },
+    {
+      "uid": "3ca72ab996dc7d97acc7bc948351d0c8",
+      "css": "card_membership",
+      "code": 59396,
+      "src": "material"
+    },
+    {
+      "uid": "c0e4e1d974a3b8edab49048f8a478e78",
+      "css": "card_travel",
+      "code": 59397,
+      "src": "material"
+    },
+    {
+      "uid": "85cfd1f6d0d4d98cddc4b1827f9628ef",
+      "css": "casino",
+      "code": 59398,
+      "src": "material"
+    },
+    {
+      "uid": "a404c1624feb7ff3d659e66131799f1f",
+      "css": "cast",
+      "code": 59399,
+      "src": "material"
+    },
+    {
+      "uid": "bdc4fd84f3c2b04f7e2f0b61f1f8e995",
+      "css": "cast_connected",
+      "code": 59400,
+      "src": "material"
+    },
+    {
+      "uid": "0b25c59efb260f4ef8993039d29ba92d",
+      "css": "center_focus_strong",
+      "code": 59401,
+      "src": "material"
+    },
+    {
+      "uid": "644ca39fd6e170085849c7a19c695550",
+      "css": "center_focus_weak",
+      "code": 59402,
+      "src": "material"
+    },
+    {
+      "uid": "874c7c938126de283ef1d2176e2f99c8",
+      "css": "change_history",
+      "code": 59403,
+      "src": "material"
+    },
+    {
+      "uid": "c42cc8614419b562885e3bf4319df490",
+      "css": "chat",
+      "code": 59404,
+      "src": "material"
+    },
+    {
+      "uid": "1d8797b24d911c4c2b7c8f82f73ed177",
+      "css": "chat_bubble",
+      "code": 59405,
+      "src": "material"
+    },
+    {
+      "uid": "0cfe3ba1497065ea5f31e4d9c9761be1",
+      "css": "chat_bubble_outline",
+      "code": 59406,
+      "src": "material"
+    },
+    {
+      "uid": "83b1dd96a1760c9d049edbba9b96f2b2",
+      "css": "check",
+      "code": 59407,
+      "src": "material"
+    },
+    {
+      "uid": "1c860d40c1bc780d6a8da2e5d2ed6630",
+      "css": "check_box",
+      "code": 59408,
+      "src": "material"
+    },
+    {
+      "uid": "4fddedbeb89b99e001b768f6cc01d1b6",
+      "css": "check_box_outline_blank",
+      "code": 59409,
+      "src": "material"
+    },
+    {
+      "uid": "eb77c8027d60e595b6787551564ddf3b",
+      "css": "check_circle",
+      "code": 59415,
+      "src": "material"
+    },
+    {
+      "uid": "13a49a07f56790c4da941d505aa378d8",
+      "css": "chevron_left",
+      "code": 59410,
+      "src": "material"
+    },
+    {
+      "uid": "7d85bab52016c1a1834e13bfeee98b1c",
+      "css": "chevron_right",
+      "code": 59411,
+      "src": "material"
+    },
+    {
+      "uid": "72410939ceb1abb283547f2ffb2544e7",
+      "css": "child_care",
+      "code": 59412,
+      "src": "material"
+    },
+    {
+      "uid": "4b60bc7b3645b13fd738a1831b5d34ec",
+      "css": "child_friendly",
+      "code": 59413,
+      "src": "material"
+    },
+    {
+      "uid": "e9df1eea69edd5459c0e4db2347f2f61",
+      "css": "chrome_reader_mode",
+      "code": 59414,
+      "src": "material"
+    },
+    {
+      "uid": "c522ed4c5ea598b0e3f0a5afc50a2816",
+      "css": "class",
+      "code": 59416,
+      "src": "material"
+    },
+    {
+      "uid": "55df818c163c6195231a3ba2a4159310",
+      "css": "clear",
+      "code": 59417,
+      "src": "material"
+    },
+    {
+      "uid": "af05e9a046b7ea6e6fe5be07675ef0e8",
+      "css": "clear_all",
+      "code": 59418,
+      "src": "material"
+    },
+    {
+      "uid": "5eb07554925705653f5a05894271d8d3",
+      "css": "close",
+      "code": 59419,
+      "src": "material"
+    },
+    {
+      "uid": "230c6986f6b3989e4b248ad9cfc56aa8",
+      "css": "closed_caption",
+      "code": 59420,
+      "src": "material"
+    },
+    {
+      "uid": "44e035628ee60455a84023969f7a43e1",
+      "css": "cloud",
+      "code": 59421,
+      "src": "material"
+    },
+    {
+      "uid": "d0967450e874ea38fc95389311abd45f",
+      "css": "cloud_circle",
+      "code": 59422,
+      "src": "material"
+    },
+    {
+      "uid": "c2907be493bc2725322e954809882070",
+      "css": "cloud_done",
+      "code": 59423,
+      "src": "material"
+    },
+    {
+      "uid": "30fa13c9651049b9215c307ef37b88b3",
+      "css": "cloud_download",
+      "code": 59424,
+      "src": "material"
+    },
+    {
+      "uid": "6d45b68dfa7ff841bb792803946a91a6",
+      "css": "cloud_off",
+      "code": 59425,
+      "src": "material"
+    },
+    {
+      "uid": "14557a90831e862a5b6dbce938d54fc1",
+      "css": "cloud_queue",
+      "code": 59426,
+      "src": "material"
+    },
+    {
+      "uid": "ed61ac9690ecef2ccf19879929b718d9",
+      "css": "cloud_upload",
+      "code": 59427,
+      "src": "material"
+    },
+    {
+      "uid": "7c5cbb4be0c79cc7f64da33f17efc402",
+      "css": "code",
+      "code": 59428,
+      "src": "material"
+    },
+    {
+      "uid": "2a2ee188a0f5c77c4f491abec3de77ba",
+      "css": "collections",
+      "code": 59429,
+      "src": "material"
+    },
+    {
+      "uid": "5f5af0ab92f103238ff37eaa122dca7d",
+      "css": "collections_bookmark",
+      "code": 59430,
+      "src": "material"
+    },
+    {
+      "uid": "018f68326d31d9e824282f953a16e5e3",
+      "css": "color_lens",
+      "code": 59431,
+      "src": "material"
+    }
+  ]
+}
